@@ -3,7 +3,7 @@
 const Myeducation = () => {
   return (
      
-        <div className='bg-[#161616] md:h-[100vh] h-[200px] w-[100%] mt-[20px] ' >
+        <div className='bg-[#161616] md:h-[100vh] h-[100%] w-[100%] mt-[20px] ' >
          <div className="bg-[#161616] shadow-xl md:h-[120px] h-[50px] w-[100%] md:ml-[50px]  ml-[5px] flex gap-4" data-aos='slide-right' data-aos-delay='1000' >
           
                 <div>

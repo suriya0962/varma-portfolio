@@ -16,7 +16,7 @@ const Home = () => {
       className="relative  bg-cover w-[100%]"
       src={Video}
       ></video> 
-    <div className="absolute  md:top-[80px] top-[5px]  h-auto  w-[100%]">
+    <div className="absolute  md:top-[80px] top-[20px]  h-auto  w-[100%]">
        <Aboutme/>
        <div className="bg-[#161616] ">
        <div> <h1 className="text-white bg-[#161616] font-bold md:text-[40px] flex justify-center underline  text-[15px]">My Education</h1><Myeducation/></div> 

@@ -2,7 +2,7 @@
 
 const Myskills = () => {
   return (
-    <div className=" bg-[#161616] md:h-[100vh] h-[300px] w-[100%]  ">
+    <div className=" bg-[#161616] md:h-[100vh] h-[100%] w-[100%]  ">
         <div className="md:flex md:gap-10 gap-5 " data-aos='slide-left' data-aos-delay='1000'>
      <div className="bg-[#161616] shadow-xl md:h-[60px] h-[20px] md:w-[25%] w-[200px] md:ml-[50px] ml-[20px] md:mt-[50px] mt-[10px] flex md:gap-4 gap-3" >
           

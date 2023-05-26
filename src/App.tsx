@@ -16,7 +16,6 @@ function App() {
     Aos.init({
       duration:1200,
       offset:100,
-      disable:"mobile",
     });
   },[]);
   return (

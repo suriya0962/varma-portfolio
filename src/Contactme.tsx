@@ -3,7 +3,7 @@
 const Contactme = () => {
   return (
     <div className="">
-         <div className='bg-[#161616] md:h-[100vh] h-[300px]  w-[100%]'>
+         <div className='bg-[#161616] md:h-[100vh] h-[100%]  w-[100%]'>
             <div>
             <div className="md:flex" data-aos='slide-left' data-aos-delay='1000'>
             <div className="bg-[#161616] shadow-xl md:h-[80px] h-[30px] md:w-[50%] w-[150px] md:ml-[50px] ml-[10px] md:mt-[50px] mt-[10px] flex gap-4" >
