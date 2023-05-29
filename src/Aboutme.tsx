@@ -9,7 +9,7 @@ const Aboutme = () => {
     <>
     <div className='flex  md:h-[100vh] h-[100%] w-[100%]'>
     
-      <div className='font-serif w-[100%] md:ml-[30px] ml-[10px] md:mt-[50px] mt-[30px]' data-aos='slide-right' data-aos-delay='1000'>
+      <div className='font-serif w-[100%] md:ml-[30px] ml-[10px] md:mt-[50px] mt-[30px]' data-aos='slide-right' data-aos-delay='1000'> 
       
       <div>
       <h1  className='  md:text-[50px] text-[20px]  text-white font-semibold '>Surya Sagiraju</h1>
