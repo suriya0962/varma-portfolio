@@ -12,7 +12,7 @@ const Aboutme = () => {
       <div className='font-serif w-[100%] md:ml-[30px] ml-[10px] md:mt-[50px] mt-[30px]' data-aos='slide-right' data-aos-delay='1000'>
       
       <div>
-      <h1  className='  md:text-[50px] text-[20px]  text-white font-semibold '>Surya varma</h1>
+      <h1  className='  md:text-[50px] text-[20px]  text-white font-semibold '>Surya Sagiraju</h1>
       <h1 className=' text-white md:text-[20px] text-[8px] md:mt-3  '>Junior Front-end developer</h1></div>
       <p className=' text-white md:text-[20px] text-[8px] md:mt-3 '>Hi,i am Surya varma and i am from vizainagaram.<br />Now i am doing internship in  <a href="https://flyerssoft.com/" className=' text-violet-900 hover:underline'>Flyers soft </a> <br/>
       in front-end development. </p>
